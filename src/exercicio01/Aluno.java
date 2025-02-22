@@ -27,7 +27,7 @@ public class Aluno {
         aux += "RM: " + rm + "\n";
         aux += "Nome: " + nome + "\n";
         aux += "Nota1: " + nota1 + "\n";
-        aux += "Nota2: " + nota2 + "\n";
+        aux += "Nota2: " + nota2;
         return aux;
     }
 }
